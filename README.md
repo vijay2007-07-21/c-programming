@@ -1,2 +1,4 @@
-# c-programming
-This repository documents my journey of learning the C programming language from scratch. It includes basic to advanced concepts, code examples, mini projects, and practice problems.
+# 📘 Learn C Programming
+
+Welcome to my C Programming learning journey!  
+This repository contains notes, code examples, and mini projects as I learn the C language from scratch.
