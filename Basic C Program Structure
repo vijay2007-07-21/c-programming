@@ -1,0 +1,9 @@
+#include <stdio.h>  // Preprocessor directive
+
+// Main function - program execution starts here
+int main() {
+    // Print a message to the console
+    printf("Hello, World!\n");
+
+    return 0;  // Return 0 indicates successful execution
+}
